@@ -1,0 +1,7 @@
+﻿  Bank.cpp
+C:\Users\Bassam\Desktop\Bassam\Programing\Cours 8\Bank\Bank\Bank.cpp(52,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Bassam\Desktop\Bassam\Programing\Cours 8\Bank\Bank\Bank.cpp(737): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\Bassam\Desktop\Bassam\Programing\Cours 8\Bank\Bank\Bank.cpp(858): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+C:\Users\Bassam\Desktop\Bassam\Programing\Cours 8\Bank\Bank\Bank.cpp(928): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+C:\Users\Bassam\Desktop\Bassam\Programing\Cours 8\Bank\Bank\Bank.cpp(1005): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Bank.vcxproj -> C:\Users\Bassam\Desktop\Bassam\Programing\Cours 8\Bank\x64\Debug\Bank.exe
